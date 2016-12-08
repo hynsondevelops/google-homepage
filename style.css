@@ -4,9 +4,10 @@
 
 }
 
-.navbar 
+.navbar li
 {
-
+	display: inline-block;
+	
 }
 
 .logo
