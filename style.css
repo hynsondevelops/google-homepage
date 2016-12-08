@@ -4,6 +4,12 @@
 
 }
 
+.navbar
+{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
 .navbar li
 {
 	display: inline-block;
