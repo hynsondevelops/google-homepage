@@ -1,7 +1,38 @@
+.background: 
+{
+
+
+}
+
+.navbar 
+{
+
+}
+
 .logo
 {
 	alt: "Google";
 	position: relative;
 	left: 300px;
 	bottom: 300px;
+}
+
+.searchbar
+{
+
+}
+
+.buttonbar
+{
+
+}
+
+.message
+{
+	
+}
+
+.footer
+{
+
 }
