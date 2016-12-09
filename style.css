@@ -15,13 +15,17 @@
 	display: inline-block;
 	
 }
-
-#logo
+.center
 {
 	position: relative;
 	top: 200px;
 	display: block;
 	margin: auto;
+}
+
+#logo
+{
+	
 }
 
 .searchbar
